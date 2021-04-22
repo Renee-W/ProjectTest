@@ -1,0 +1,10 @@
+Contiguous U.S., Precipitation, January-December
+Units: Inches
+Base Period: 1901-2000
+Missing: -99
+Date,Value,Anomaly
+201512,34.59,4.65
+201612,31.42,1.48
+201712,32.31,2.37
+201812,34.65,4.71
+201912,34.82,4.88

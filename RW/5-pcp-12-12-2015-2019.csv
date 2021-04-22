@@ -1,0 +1,10 @@
+Colorado, Precipitation, January-December
+Units: Inches
+Base Period: 1901-2000
+Missing: -99
+Date,Value,Anomaly
+201512,21.73,3.61
+201612,17.08,-1.04
+201712,18.91,0.79
+201812,14.96,-3.16
+201912,18.91,0.79
